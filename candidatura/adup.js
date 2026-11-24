@@ -3,7 +3,7 @@
    PRIMA DI PUBBLICARE compila ADUP_CONFIG. Finché PIXEL_ID è vuoto il Pixel non viene mai caricato
    e il banner cookie non compare (il sito resta senza cookie di tracciamento).                     */
 window.ADUP_CONFIG = {
-  PIXEL_ID: "",            // ID del Pixel Meta (solo numeri). Vuoto = nessun tracciamento.
+  PIXEL_ID: "1373273428337053",            // ID del Pixel Meta (solo numeri). Vuoto = nessun tracciamento.
   FORM_ENDPOINT: "https://script.google.com/macros/s/AKfycbwXQQQkNqdqGQzhRGpl7hnjfDrdODifTMSOebcQ_B0Wyn3qoJs-wCQohPf11uKp9e2Hpg/exec",       // URL della Web App di Google Apps Script (vedi TRACCIAMENTO.md). Vuoto = nessun invio.
   CALENDLY_URL: "https://calendly.com/adupagencymeta/analisi-gratuita",
   WHATSAPP: "393791577035",
